@@ -1,46 +1,43 @@
-# Bryan Grimes (Bearded Giant):
+# Bryan Grimes (Bearded Giant)
 
-Principal Engineer & Architect at [Recharge](https://github.com/RechargePayments) · Owner of [Bearded Giant LLC](https://beardedgiant.ai)
+Principal Engineer & Architect at [Recharge](https://github.com/RechargePayments) · Owner of [Bearded Giant LLC](https://beardedgiant.ai)  
+Based in Philadelphia, PA
 
-Based in Philadelphia, PA.
+### The Philosophy
 
----
+I have been building backend systems for 25+ years. My professional work (Distributed Systems, Auth, Scale) happens in private repositories.
 
-### About Me
+My public GitHub is my workbench. It is where I build the tooling, frameworks, and automation that allow me to manage that complexity. I focus heavily on **Developer Experience**—if a workflow has friction, I script it away.
 
-25+ years building backend systems. I work across distributed processes, API platform architecture, security and auth systems, and analytical platforms — from design through execution. I like solving hard infrastructure problems and I build a lot of my own tools.
+### The Workflow Engine
 
----
+These are the repositories that actually power my day-to-day. They aren't always polished products; they are the raw tools I use to maintain velocity.
 
-### What I Work On
+| Repo | Category | The Role it Plays |
+| :--- | :--- | :--- |
+| [**script-hodge-podge**](https://github.com/bearded-giant/script-hodge-podge) | Automation | **The Glue.** A collection of critical workflow scripts—specifically for managing Git Worktree lifecycles and project workspace isolation. |
+| [**claude-code-config**](https://github.com/bearded-giant/claude-code-config) | AI Config | **The Brain.** Custom configurations to align AI coding assistants with my specific architectural patterns and requirements. |
+| [**Do-It.nvim**](https://github.com/bearded-giant/Do-It.nvim) | Neovim | **The Manager.** My daily driver for project management. I don't leave the terminal to track tasks; this handles it. |
+| [**giant-ai**](https://github.com/bearded-giant/giant-ai) | Python | **The Framework.** An open framework I built to integrate AI tools directly into my backend stack. |
 
-**Platform Architecture & Distributed Systems**
-Backend architecture and design for subscription commerce at scale — distributed processing, payment systems, real-time analytics, and multi-tenant e-commerce infrastructure.
+### Neovim & Terminal Ecosystem
 
-**API & Security Platforms**
-Authentication and authorization architecture, API gateway design, and platform-level security systems.
+I live in the terminal (Tmux + Neovim). Beyond the workflow scripts above, I maintain several plugins to fill gaps in the ecosystem.
 
-**Analytical Systems**
-Large-scale data pipelines, real-time merchant analytics, and cross-sell/upsell product systems.
+| Plugin | Language | Purpose |
+| :--- | :--- | :--- |
+| [**giant-ai.nvim**](https://github.com/bearded-giant/giant-ai.nvim) | Lua | Native Neovim integration for the giant-ai framework. |
+| [**mark9.nvim**](https://github.com/bearded-giant/mark9.nvim) | Lua | Minimal, fast file navigation (Harpoon-style) without the bloat. |
+| [**dap-logger**](https://github.com/bearded-giant/dap-logger) | Lua | Debugging context logger to capture state without pausing execution. |
 
-**AI Tooling**
-Building [giant-ai](https://github.com/bearded-giant/giant-ai) — an open framework for AI tools, with a companion [Neovim plugin](https://github.com/bearded-giant/giant-ai.nvim).
+### Architecture & Tech
 
-**Neovim Ecosystem**
-I build and maintain several Neovim plugins:
-[Do-It.nvim](https://github.com/bearded-giant/Do-It.nvim) · [mark9.nvim](https://github.com/bearded-giant/mark9.nvim) · [dap-logger](https://github.com/bearded-giant/dap-logger)
+**Core Stack**
+Python, Node, Lua, Go, Rust, Bash
 
-**Developer Productivity**
-CLI tools, proxies, and workflow automation — [Giant-Proxy](https://github.com/bearded-giant/Giant-Proxy) and various shell/Python utilities.
-
----
-
-### Tech Lately:
-
-`Python` · `Node` · `Lua` · `Go` · `Rust` · `Bash`
-`Postgres` · `Redis` · `Elasticsearch` · `SQLite` · `Snowflake`
-`Kubernetes` · `GCP` · `Nginx` · `Neovim`
+**Infrastructure**
+Postgres, Redis, Elasticsearch, Snowflake, Kubernetes, GCP
 
 ---
 
-🔗 [beardedgiant.ai](https://beardedgiant.ai) · [beardedgiantbbq.com](https://beardedgiantbbq.com) · [LinkedIn](https://www.linkedin.com/in/bryangrimes/)
+[beardedgiant.ai](https://beardedgiant.ai) · [beardedgiantbbq.com](https://beardedgiantbbq.com) · [LinkedIn](https://www.linkedin.com/in/bryangrimes/)
