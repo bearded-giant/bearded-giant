@@ -15,7 +15,7 @@ These are the repositories that actually power my day-to-day. They aren't always
 
 | Repo | Category | The Role it Plays |
 | :--- | :--- | :--- |
-| [**script-hodge-podge**](https://github.com/bearded-giant/script-hodge-podge) | Automation | **The Glue.** A collection of critical workflow scripts—specifically for managing Git Worktree lifecycles and project workspace isolation. |
+| [**giant-tooling**](https://github.com/bearded-giant/giant-tooling) | Automation | **The Glue.** Git worktree lifecycle management, workspace/scratch directory isolation, and full-text archive search. The system that keeps multi-branch, multi-project development fast and organized. |
 | [**claude-code-config**](https://github.com/bearded-giant/claude-code-config) | AI Config | **The Brain.** Custom configurations to align AI coding assistants with my specific architectural patterns and requirements. |
 | [**Do-It.nvim**](https://github.com/bearded-giant/Do-It.nvim) | Neovim | **The Manager.** My daily driver for project management. I don't leave the terminal to track tasks; this handles it. |
 | [**giant-ai**](https://github.com/bearded-giant/giant-ai) | Python | **The Framework.** An open framework I built to integrate AI tools directly into my backend stack. |
