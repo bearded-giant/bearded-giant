@@ -23,10 +23,11 @@ These are the repositories that actually power my day-to-day. They aren't polish
 
 ### Neovim & Terminal Ecosystem
 
-I live in the terminal (Tmux + Neovim). Beyond the workflow scripts above, I maintain several plugins to fill gaps in the ecosystem.
+I live mainly in the terminal (Tmux + Neovim). Beyond the workflow scripts above, I maintain several plugins to fill gaps in the ecosystem.
 
 | Plugin | Language | Purpose |
 | :--- | :--- | :--- |
+| [bearded-giant-tmux](https://github.com/bearded-giant/bearded-giant-tmux) | Lua/Bash | My personal tmux theme.  It's a hodgepodge of some other tmux themes I liked and a lot of customized scripts and things like my calendar and [**Do-It.nvim**](https://github.com/bearded-giant/Do-It.nvim) integration |
 | [**giant-ai.nvim**](https://github.com/bearded-giant/giant-ai.nvim) | Lua | Native Neovim integration for the giant-ai framework |
 | [**mark9.nvim**](https://github.com/bearded-giant/mark9.nvim) | Lua | Minimal, fast file marking like `marks` and coupled with `Harpoon`-like searching |
 | [**dap-logger**](https://github.com/bearded-giant/dap-logger) | Lua | Debugging context logger to capture state without pausing execution |
