@@ -19,6 +19,7 @@ These are the repositories that actually power my day-to-day. They aren't always
 | [**claude-code-config**](https://github.com/bearded-giant/claude-code-config) | AI Config | **The Brain.** Custom configurations to align AI coding assistants with my specific architectural patterns and requirements. |
 | [**Do-It.nvim**](https://github.com/bearded-giant/Do-It.nvim) | Neovim | **The Manager.** My daily driver for project management. I don't leave the terminal to track tasks; this handles it. |
 | [**giant-ai**](https://github.com/bearded-giant/giant-ai) | Python | **The Framework.** An open framework I built to integrate AI tools directly into my backend stack. |
+| [**mdlive**](https://github.com/bearded-giant/mdlive) | Rust | **The Viewer.** Live markdown viewer that sits next to AI coding agents. Point it at a file or directory, get instant rendered preview in the browser. The agent writes, I read. |
 
 ### Neovim & Terminal Ecosystem
 
