@@ -15,11 +15,13 @@ These are the repositories that actually power my day-to-day. They aren't polish
 
 | Repo | Category | The Role it Plays |
 | :--- | :--- | :--- |
+| [**mdlive**](https://github.com/bearded-giant/mdlive) | Rust | Live markdown viewer and workspace organizer (of sorts) that can be used to read and organize your md files (user created or AI). Point it at a file or directory, get instant rendered previews in an app (Mac), or CLI (Linux/Mac) |
+| [**mdlive**](https://github.com/bearded-giant/gproxy) | Rust | A Proxyman-like remote mapping proxy app (Mac) as well as CLI (Linux/Mac).  Create profiles and rules to map remote for local or cxross env testing/use. |
+| [**Do-It.nvim**](https://github.com/bearded-giant/Do-It.nvim) | Neovim | My daily driver for todos, notes, even seeing my calendar. I don't leave the terminal to track tasks it's all here. |
 | [**giant-tooling**](https://github.com/bearded-giant/giant-tooling) | Automation | Git worktree lifecycle management, my personal workspace/scratch directory isolation, and full-text archive search. The system that keeps multi-branch, multi-project development fast and organized. |
 | [**claude-code-config**](https://github.com/bearded-giant/claude-code-config) | AI Config | My personal custom configurations to align Claude code with my specific architectural patterns and requirements. I read and write a lot of docs, and this is how I do it. |
-| [**Do-It.nvim**](https://github.com/bearded-giant/Do-It.nvim) | Neovim | My daily driver for todos, notes, even seeing my calendar. I don't leave the terminal to track tasks it's all here. |
 | [**giant-ai**](https://github.com/bearded-giant/giant-ai) | Python | An open framework I built to integrate AI tools directly into my backend stack. Was more of a proof that you didn't need to pay for Cursor.  It's there if you are curious. |
-| [**mdlive**](https://github.com/bearded-giant/mdlive) | Rust | Live markdown viewer and workspace organizer (of sorts) that can be used to read and organize your md files (user created or AI). Point it at a file or directory, get instant rendered preview in the browser. |
+
 
 ### Neovim & Terminal Ecosystem
 
