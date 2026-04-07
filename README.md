@@ -1,6 +1,6 @@
 # Bryan Grimes (Bearded Giant)
 
-Principal Engineer & Architect at [Recharge](https://github.com/RechargePayments) · Owner of [Bearded Giant LLC](https://beardedgiant.ai)  
+Principal Engineer & Architect at [Recharge](https://github.com/RechargePayments) · Owner of [Bearded Giant LLC](https://beardedgiantllc.com)  
 Based in Philadelphia, PA
 
 ### The Philosophy
