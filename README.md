@@ -5,9 +5,9 @@ Based in Philadelphia, PA
 
 ### The Philosophy
 
-I have been building backend systems for 25+ years. My professional work (Distributed Systems, Auth, Scale) happens in private repositories.
+I have been building backend systems for 25+ years. My professional work (agentic workflows, analytics and distributed systems, and auth/security) happens in private repositories.  Is what it is.
 
-My public GitHub is more akin to my workbench. It is where I build the tooling, frameworks, and automation that allow me to manage that complexity. My personal focus is on **Developer Experience**: if a workflow has friction, I script it away.  I never want to repeat myself for daily actions...I'm lazy in a good way I guess.
+My public GitHub is more akin to my workbench. It is where I build much of tooling, frameworks, and automation that allow me to manage that complexity. My personal focus is on **Developer Experience**: if a workflow has friction, I script it away.  I never want to repeat myself for daily actions...I'm lazy in a good way I guess.
 
 ### The Workflows
 
